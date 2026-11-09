@@ -14,8 +14,36 @@ MacroFlow Studio 是 Windows 键鼠录制与自动化工具。你可以录制操
 
 在「脚本编辑」中绑定目标窗口，按 `F8` 开始或结束录制，保存后按 `F9` 回放。按 `F12` 停止。在「工作流」里可以按顺序运行多个脚本。
 
+## 界面预览
+
+六张预览按左侧导航顺序排列，使用示例数据。点击任意图片可查看 2320 × 1560 原图。
+
+### 工作流
+
+[![工作流](screenshots/workflows.png)](screenshots/workflows.png?raw=true)
+
+### 脚本编辑
+
+[![脚本编辑](screenshots/scripts.png)](screenshots/scripts.png?raw=true)
+
+### 模块管理
+
+[![模块管理](screenshots/modules.png)](screenshots/modules.png?raw=true)
+
+### 插件
+
+[![插件](screenshots/plugins.png)](screenshots/plugins.png?raw=true)
+
+### 运行日志
+
+[![运行日志](screenshots/logs.png)](screenshots/logs.png?raw=true)
+
+### 设置
+
+[![设置](screenshots/settings.png)](screenshots/settings.png?raw=true)
+
 ## 更新和卸载
 
 更新前备份自己创建的脚本、工作流和识图模板。更新时使用新版安装包。可在 Windows 的「已安装的应用」中卸载 MacroFlow Studio。
 
-GitHub 自动生成的 Source code 归档只含对应版本的使用说明。实际安装包位于单独上传的 Release 附件中。
+GitHub 自动生成的 Source code 归档只含对应版本的使用说明及其图片。实际安装包位于单独上传的 Release 附件中。
