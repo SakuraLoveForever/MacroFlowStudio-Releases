@@ -4,7 +4,7 @@ MacroFlow Studio 是 Windows 键鼠录制与自动化工具。你可以录制操
 
 ## 安装
 
-适用于 64 位 Windows 10 和 Windows 11。安装时需要联网，应用自带离线 OCR 模型。
+适用于 64 位 Windows 10（1809 或更新版本）和 Windows 11。安装时需要联网，应用自带离线 OCR 模型。
 
 1. 打开[最新版本](https://github.com/SakuraLoveForever/MacroFlowStudio-Releases/releases/latest)，在 Assets 中下载 `MacroFlowStudio_Setup_*_win64.exe`。
 2. 双击安装包，选择安装位置和是否创建桌面快捷方式。安装向导会从官方 PyPI 下载并校验所需运行库。
